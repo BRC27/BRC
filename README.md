@@ -9,8 +9,8 @@
 2. Forum
 ## MinecraftServer-**RockServer**
 这是我们新的一个项目，也是第一个。服务器使用Paper端，优化良好，禁红石。加入插件加持，在失去红石的情况下依然能体会乐趣。
-[点我进入项目网址](https://mc.brcraft.top)
-[点我进入Github项目网址](https://github.com/BRC27/BRC/blob/main/minecraftserver-rockserver.md)
+[点我进入项目网址](https://mc.brcraft.top)<br>
+[点我进入Github项目网址](https://github.com/BRC27/BRC/blob/main/minecraftserver-rockserver.md)<br>
 *项目建设中*
 ## Fourm-**BFourm**
 - 这个项目**开始实施！**
