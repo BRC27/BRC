@@ -1,7 +1,8 @@
 # 我们是谁？
 - 成立于2022.1.1
-- 内部**1**个项目正在搭建
+- 内部**2**个项目正在搭建
 - 官方网站[点我拜访](https://www.brcraft.top)
+- 
 # 如何加入
 [点击此处](https://www.brcraft.top/join.html)
 # 我们的项目
@@ -12,8 +13,11 @@
 [点我进入项目网址](https://mc.brcraft.top)
 *项目建设中*
 ## Fourm-**BFourm**
-这个项目还在筹备中，将使用XenForo的IO主题和插件主题，内部还有*Bedrockcraft*官方社区。
-*项目计划中*
+这个项目**开始实施！**
+如何访问？
+1.使用bbs.brcraft.top访问或者[点击此处](bbs.brcraft.top)
+2.使用fourm.brcraft.top访问或者[点击此处](fourm.brcraft.top)
+**【重要】因为服务器配置问题，所以有不稳定性**
 # 成员列表
 - 【总管理员/创建者】ZXFunM
 - 【副总管理】MinecraftLYC
