@@ -1,3 +1,5 @@
+# 语言
+简体中文 | [English](https://github.com/BRC27/BRC) | [繁體中文](https://github.com/BRC27/BRC)
 # 我们是谁？
 - 成立于2022.1.1
 - 内部**2**个项目正在搭建
@@ -8,10 +10,10 @@
 1. MinecraftServer
 2. Forum
 ## MinecraftServer-**RockServer**
-这是我们新的一个项目，也是第一个。服务器使用Paper端，优化良好，禁红石。加入插件加持，在失去红石的情况下依然能体会乐趣。
+这是我们新的一个项目，也是第一个。服务器使用Paper端，优化良好，禁红石。加入插件加持，在失去红石的情况下依然能体会乐趣。<br>
 [点我进入项目网址](https://mc.brcraft.top)<br>
 [点我进入Github项目网址](https://github.com/BRC27/BRC/blob/main/minecraftserver-rockserver.md)<br>
-*项目建设中*
+*项目建设中*<br>
 ## Fourm-**BFourm**
 - 这个项目**开始实施！**
 - 如何访问？
